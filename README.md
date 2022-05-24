@@ -10,7 +10,7 @@ You must write the number 1, 2, or 3
 
 [INFO] GOOD LUCK ..!
 
-[INFO] DISCORD : $anhak#1398
+[INFO] DISCORD : Sanhak#5335
 
   
 [1] AUTO-TXT                 
