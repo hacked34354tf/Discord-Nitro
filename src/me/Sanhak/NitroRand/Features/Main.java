@@ -32,7 +32,7 @@ public static void main(String[] args)
 		} 
 		if (nu == 3)
 		{
-		System.out.println("Bye...!");
+		System.exit(0);
 		}
 	} 
     
