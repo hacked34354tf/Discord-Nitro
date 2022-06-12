@@ -11,7 +11,7 @@ public static void main(String[] args)
 	System.out.println("―――――――――――――――――――――――――――――――――――――――");
 	System.out.println("[INFO] MOST CODES DO NOT WORK!");
 	System.out.println("[INFO] GOOD LUCK ..!");
-	System.out.println("[INFO] DISCORD : $anhak#1398");
+	System.out.println("[INFO] DISCORD : Sanhak#5335");
 	System.out.println("  ");
 	System.out.println("[1] AUTO-TXT                 ");
 	System.out.println("[2] MANUAL-PRINTED (3*NUMBER)                  ");
